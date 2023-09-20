@@ -2,7 +2,7 @@
 replicaCount: 3
 
  image:
-  repository: us-central1-docker.pkg.dev/omega-ability-396814/artemis/artemis@sha256:907c9182af332c5d6462a833a7c8b1d6d99324eeb92487278657ec6f6c9acf3f
+  repository: "us-central1-docker.pkg.dev/omega-ability-396814/artemis/artemis@sha256:907c9182af332c5d6462a833a7c8b1d6d99324eeb92487278657ec6f6c9acf3f"
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "8.0.0"
