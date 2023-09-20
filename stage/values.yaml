@@ -5,7 +5,7 @@ replicaCount: 3
   repository: us-central1-docker.pkg.dev/omega-ability-396814/artemis/artemis
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "8.0.0"
+  tag: "2.0.0"
 
 
 
